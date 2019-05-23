@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=LINE
+Exec=env WINEPREFIX="/home/agung/.wine" wine C:\\\\users\\\\agung\\\\Local\\ Settings\\\\Application\\ Data\\\\LINE\\\\bin\\\\LineLauncher.exe 
+Type=Application
+StartupNotify=true
+Path=/home/agung/.wine/dosdevices/c:/users/agung/Local Settings/Application Data/LINE/bin
+Icon=7E59_LineLauncher.0
